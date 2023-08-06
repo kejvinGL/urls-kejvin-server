@@ -1,0 +1,4 @@
+{
+  "mongoURl": "mongodb+srv://admin:admin@urlshortener.3xcrwzg.mongodb.net/?retryWrites=true&w=majority",
+  "baseUrl": "https://urls-kejvin.netlify.app"
+}
